@@ -7,7 +7,7 @@
 #SBATCH -o test4.out # STDOUT
 #SBATCH -e test5.err # STDERR
 
-hostname
-date
+hostname student40
+date 11.11.2025
 sleep 600
-date
+date 11.11.2025
